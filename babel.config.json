@@ -1,0 +1,4 @@
+//Babel lo que hace es encargarse de la compatibilidad de tu codigo con otros browsers
+{
+  "presets": ["@babel/preset-env"]
+}
